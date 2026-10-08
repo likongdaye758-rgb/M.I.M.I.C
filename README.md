@@ -3,8 +3,7 @@ M.I.M.I.C の配布用リポジトリ
 
 ## インストール方法（Windows）
 
-1. [リリースのページ](https://github.com/likongdaye758-rgb
-/mimic/releases) を開く
+1. [リリースのページ](https://github.com/likongdaye758-rgb/mimic/releases) を開く
 2. 「Assets」に **MIMIC-Setup-〇〇.exe** があるリリースのうち、一番上（新しい）ものからダウンロード
    - Edge で「一般的にダウンロードされていません」と出たら「…」→「保存」
 3. ダウンロードしたファイルをダブルクリック →「次へ」で進める
